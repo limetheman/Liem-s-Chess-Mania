@@ -1,2 +1,2 @@
-# Liem-s-Chess-Mania
+# Liem-Chess-Mania
 A Python Chess game using the Pygame Library
